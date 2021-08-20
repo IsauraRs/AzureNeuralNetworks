@@ -1,1 +1,1 @@
-" # Aqu¡ se encuentran los notebooks correspondientes a la sesi¢n de IA del ciclo de Inteligencia Artificial con Azure de Innovaci¢n Virtual." 
+# Aquí se encuentran los notebooks correspondientes a la sesión de IA del ciclo de Inteligencia Artificial con Azure de Innovación Virtual.
